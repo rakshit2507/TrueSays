@@ -1,0 +1,91 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+/* .sli-der,h1 {
+  color:yellow;
+  margin-top:10px;
+}
+.contact ,.icons, a{
+  display:flex;
+}
+.container .row .contact p{
+  padding:10px;
+}
+.icons{
+margin-left:1000px;
+}
+.icons a{
+  padding:15px;
+ margin-top:-55px;
+}
+.carousel-inner .carousel-caption h1{
+  animation-delay:1s;
+}
+.carousel-inner .carousel-caption p{
+  animation-delay:2s;
+} */
+.miss_ion img {
+  max-width: 100%;
+}
+/* Teams section css */
+#team .container .row .testimonial-box {
+  margin-top: 150px;
+}
+/* Contect Section Css */
+.loca_tion {
+  box-shadow: 0px 2px 2px 3px grey;
+  border-bottom-color: green;
+}
+.message_form {
+  box-shadow: 0px 2px 2px 3px grey;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15px;
+}
+.btn {
+  height: 45px;
+}
+.horizontal_line {
+  width: 15px;
+  height: 2px;
+  background-color: silver;
+}
+.carousel-home {
+  height: 100%;
+  max-height: 700px;
+}
